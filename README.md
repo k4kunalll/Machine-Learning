@@ -1,2 +1,2 @@
 # Machine-Learning
-All my machine learning algorithm practices
+Some of my machine learning algorithm practices
